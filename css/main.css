@@ -201,7 +201,7 @@
     right: 1rem;
     height: 5rem;
     width: 6rem;
-    background-image: url("../../assets/green-leaf.png");
+    background-image: url("../assets/green-leaf.png");
     background-size: cover;
     z-index: -1;
   }
@@ -219,7 +219,7 @@
   }
   
   header .hero-img {
-    background-image: url("../../assets/hero-bg.png");
+    background-image: url("../assets/hero-bg.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
@@ -234,7 +234,7 @@
     left: -3rem;
     height: 6rem;
     width: 6rem;
-    background-image: url("../../assets/yellow-leaf.png");
+    background-image: url("../assets/yellow-leaf.png");
     background-size: cover;
   }
   
@@ -374,7 +374,7 @@
   .about__img .plant-1 {
     height: 27rem;
     width: 21rem;
-    background-image: url("../../assets/img-1.png");
+    background-image: url("../assets/img-1.png");
     position: relative;
     top: 2.5rem;
   }
@@ -382,7 +382,7 @@
   .about__img .plant-2 {
     height: 17rem;
     width: 16rem;
-    background-image: url("../../assets/img-2.png");
+    background-image: url("../assets/img-2.png");
     position: relative;
     top: 5rem;
   }
@@ -390,7 +390,7 @@
   .about__img .plant-3 {
     height: 23rem;
     width: 16rem;
-    background-image: url("../../assets/img-3.png");
+    background-image: url("../assets/img-3.png");
     position: relative;
     top: -1.5rem;
   }
@@ -398,7 +398,7 @@
   .about__img .plant-4 {
     height: 33rem;
     width: 21rem;
-    background-image: url("../../assets/img-4.png");
+    background-image: url("../assets/img-4.png");
   }
   
   .about__text {
@@ -460,7 +460,7 @@
   }
   
   .indoor .plants-gallery .plant-img--1 {
-    background-image: url("../../assets/plant-1.png");
+    background-image: url("../assets/plant-1.png");
     grid-column: 1/3;
     grid-row: 1/2;
   }
@@ -470,7 +470,7 @@
   }
   
   .indoor .plants-gallery .plant-img--2 {
-    background-image: url("../../assets/plant-4.png");
+    background-image: url("../assets/plant-4.png");
     grid-column: 3/4;
     grid-row: 1/3;
   }
@@ -480,7 +480,7 @@
   }
   
   .indoor .plants-gallery .plant-img--3 {
-    background-image: url("../../assets/plant-2.png");
+    background-image: url("../assets/plant-2.png");
     grid-column: 1/2;
     grid-row: 2/3;
   }
@@ -490,7 +490,7 @@
   }
   
   .indoor .plants-gallery .plant-img--4 {
-    background-image: url("../../assets/plant-3.png");
+    background-image: url("../assets/plant-3.png");
     grid-column: 2/3;
     grid-row: 2/3;
   }
@@ -684,12 +684,12 @@
   
   .testimonial__box::before {
     left: -15%;
-    background-image: url("../../assets/green-square.svg");
+    background-image: url("../assets/green-square.svg");
   }
   
   .testimonial__box::after {
     right: -15%;
-    background-image: url("../../assets/yellow-square.svg");
+    background-image: url("../assets/yellow-square.svg");
   }
   
   .testimonial__text {
